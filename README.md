@@ -3,8 +3,6 @@
 ## Overview
 This project is part of academic activities that I will be undertaking in the course of the next six months to build a research profile for the intention to position myself a predoc role.
 In it, I aim to replicate the research conducted by Nathan Nunn. The provided data files have been sourced from his website and include shape files and data tables necessary for the analysis. The analyses were performed using Python, focusing on reproducing the main ideas presented in Nunn's work.
-The analyses were perfomed using python, focusing on reproducing the main ideas represented in Nunn's work. 
-
 ## What Question Does the Paper Tries to Answer? 
 Did Africa’s exposure to the slave trades (1400–1900) cause lower levels of economic development today?
 To put it in layman's language, the author, Nathan Nunn, tries to establish the correlation problem/casuality issue of economic development and slave trade in Africa in the time between 1400 up to 1900. 
